@@ -1,0 +1,17 @@
+{
+  "name": "angular2-skeleton",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Thomas Rivas <rivassi.thomas@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/trivassi/angular-template",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
